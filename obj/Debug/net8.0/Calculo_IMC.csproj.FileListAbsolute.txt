@@ -1,0 +1,42 @@
+C:\Users\UFG\source\repos\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UFG\source\repos\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.AssemblyInfoInputs.cache
+C:\Users\UFG\source\repos\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.AssemblyInfo.cs
+C:\Users\UFG\source\repos\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.csproj.CoreCompileInputs.cache
+C:\Users\UFG\source\repos\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.exe
+C:\Users\UFG\source\repos\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.deps.json
+C:\Users\UFG\source\repos\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.runtimeconfig.json
+C:\Users\UFG\source\repos\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.dll
+C:\Users\UFG\source\repos\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.pdb
+C:\Users\UFG\source\repos\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.dll
+C:\Users\UFG\source\repos\Calculo_IMC\obj\Debug\net8.0\refint\Calculo_IMC.dll
+C:\Users\UFG\source\repos\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.pdb
+C:\Users\UFG\source\repos\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.genruntimeconfig.cache
+C:\Users\UFG\source\repos\Calculo_IMC\obj\Debug\net8.0\ref\Calculo_IMC.dll
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.exe
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.deps.json
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.runtimeconfig.json
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.dll
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.pdb
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.dll
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\refint\Calculo_IMC.dll
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.pdb
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\ref\Calculo_IMC.dll
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.exe
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.deps.json
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.runtimeconfig.json
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.dll
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\bin\Debug\net8.0\Calculo_IMC.pdb
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.AssemblyInfo.cs
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.dll
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\refint\Calculo_IMC.dll
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.pdb
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\Calculo_IMC.genruntimeconfig.cache
+C:\Users\DELL\Desktop\UFG UNIVERSIDAD\LOGICA DE PROGRAMACION\Calculo_IMC\Calculo_IMC\obj\Debug\net8.0\ref\Calculo_IMC.dll
